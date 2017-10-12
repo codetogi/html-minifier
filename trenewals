@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+
+<title>turkrenewals | Renews Patents and Trademarks in Turkey</title>
+
+</head>
+
+<body>
+
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="row">
+    	<div class="col-sm-12">
+    	    <div class="language">
+              	 <a href="index.html"><img src="images/UK.png" alt=""></a>
+                 <a href="index.tr.html"><img src="images/turkey.png" alt=""></a>
+              	
+              </div>
+              
+              <div class="navmail">
+              
+              	<a href="mailto:renewals@turkrenewals.com"><img src="images/mail.png" alt="">renewals@turkrenewals.com</a>
+              </div>
+              
+    </div>
+    </div>
+    
+    
+    
+      
+      <div class="clearFix"></div>
+    
+    
+     <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="turkrenewalslogo"></a>
+    </div>
+
+     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+     
+     
+      
+      
+      <ul class="nav navbar-nav">
+          <li class="active"><a href="index.html">HOME</a></li>
+        <li><a href="aboutus.html">ABOUT US</a></li>
+        <li class="dropdown dropdown-large">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">SERVICES <b class="caret"></b></a>
+				
+				<ul class="dropdown-menu dropdown-menu-large row">
+					<li class="col-sm-6">
+						<ul>
+							<li class="dropdown-header">RENEWALS <hr></li>
+							<li><a href="patent.html">PATENT</a></li>
+                            <li><a href="trademarks.html">TRADEMARKS</a></li>
+                            <li><a href="designs.html">DESIGNS</a></li>
+						</ul>
+					</li>
+					<li class="col-sm-6">
+						<ul>
+							<li class="dropdown-header">RECORDALS <hr></li>
+				  			<li><a href="assignments.html">ASSIGNMENTS</a></li>
+                            <li><a href="changes.html">CHANGES</a></li>
+                            <li><a href="licences.html">LICENCES</a></li>
+							
+						</ul>
+					</li>
